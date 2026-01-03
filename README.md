@@ -1,2 +1,2 @@
 # 玉祥娛樂城第一版
-# 籌備中
+# slot machine Flutter project
