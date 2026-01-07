@@ -20,7 +20,7 @@ class UserData {
 class ApiService {
   // [修改] 將端口從 3000 改為 8000 以匹配 FastAPI 設定
   // Android 模擬器使用 10.0.2.2，iOS 模擬器請使用 http://localhost:8000/api
-  static const String baseUrl = "http://10.0.2.2:8000/api";
+  static const String baseUrl = "https://finalproject.zeabur.app/api";
 
   static Future<void> refresh(BuildContext context) async {
     try {
